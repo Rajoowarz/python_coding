@@ -1,6 +1,6 @@
 """ TUPLES AND LISTS"""
-tup1= (1,45,"Deblina", 13.30,)
-list1=["das",23,6.90]
+tup1= (1,45,"Rajanya", 13.30,)
+list1=["sardar",23,6.90]
 tup1=list(tup1)
 tup1[2]=56
 print(tup1)
@@ -15,7 +15,7 @@ print(a[-3])
 print(a[-1::-1])
 print(a[7:0:-1])
 """ CHECKING STRING AS PALINDROME OR NOT"""
-str="Deblina50"
+str="Rajanya50"
 str2=str[::-1]
 if(str!=str2):
  print("NOT PALINDROME")
