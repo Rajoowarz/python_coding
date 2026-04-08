@@ -1,11 +1,11 @@
 import pandas as pd
 data1 = {
-    "name": ["gopal","swarup","nitesh"],
+    "name": ["neha","rishav","sarmi"],
     "roll": ["140","166","138"],
     "marks":['0','50','50']
     }
 data2 = {
-    "name": ["swarup","nitesh","arjya"],
+    "name": ["neha","rishav","sarmi"],
     "roll": ["166","138","30"],
     "attendance":["30","40","50"]
     }
